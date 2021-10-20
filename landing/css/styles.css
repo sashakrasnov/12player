@@ -1,0 +1,129 @@
+.flag-ru, .flag-en, .flag-de, .flag-fr, .flag-pt, .flag-es {
+    width: 44px;
+    height: 30px;
+    object-fit: contain;
+}
+
+#logo IMG {
+    width: 62px;
+    height: 31px;
+    object-fit: contain;
+}
+#logo SPAN {
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 0px;
+    color: black;
+    letter-spacing: 1px;
+}
+#logo:hover {
+    text-decoration: none;
+}
+
+#list1, #list2 {
+    line-height: 1.3;
+    font-size: 1.2em;
+    padding-left: 1.5em;
+}
+
+.bullet {
+    width: 21px;
+    height: 22px;
+    object-fit: contain;
+    margin-right: 0.5em;
+}
+.bullet-text {
+    font-size: 1.3em;
+    line-height: 0;
+}
+.font-weight-medium {
+    font-weight: 600;
+}
+
+.font-underline {
+    text-decoration: underline;
+}
+
+.text-blue {
+    color: #006fff;
+}
+
+.text-rectangle {
+    width: 222px;
+    height: 40px;
+    object-fit: contain;
+    border-radius: 5px;
+    background-color: #006fff;
+    color: white;
+    font-size: 120%;
+    font-weight: 500;
+    display: table;
+}
+.text-rectangle SPAN {
+    display: table-cell;
+}
+.tg-subscribe {
+    color: #fff;
+}
+.tg-subscribe:HOVER {
+    text-decoration: none;
+}
+
+.tg-shape, .fb-shape {
+    width: 60px;
+    height: 53px;
+    object-fit: contain;
+}
+
+#text-bot-setup {
+    line-height: 1.25em;
+    font-size: 1.1em;
+}
+
+.subline-purple {
+    background-color: #2e0927;
+}
+
+.subline-teal {
+    background-color: #1e2f44;
+}
+
+.subline-orange {
+    background-color: #fe5603;
+}
+
+.subline-black {
+    background-color: #19141a;
+}
+
+.subline-blue {
+    background-color: #0a5cc5;
+}
+
+.quiz-please {
+  width: 148px;
+  height: 148px;
+  object-fit: contain;
+}
+.mozgva {
+  width: 138px;
+  height: 138px;
+  object-fit: contain;
+}
+.mos-quiz {
+  width: 162px;
+  height: 162px;
+  object-fit: contain;
+}
+.60sec {
+  width: 190px;
+  height: 137px;
+  object-fit: contain;
+}
+.top-border {
+    border-top: 2px solid black;
+}
+
+SPAN.line-break {
+ display: inline-block;
+}
