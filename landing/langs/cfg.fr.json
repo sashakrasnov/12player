@@ -1,0 +1,128 @@
+{
+    "games": [
+        {
+            "id": "1",
+            "title": "Jeu-questionnaire"
+        },
+        {
+            "id": "2",
+            "title": "VR-tireur"
+        },
+        {
+            "id": "3",
+            "title": "Jeux de quêtes"
+        },
+        {
+            "id": "4",
+            "title": "Paintball"
+        },
+        {
+            "id": "5",
+            "title": "FIFA, CS:GO, DOTA"
+        }
+    ],
+    "langs": [
+        {
+            "id": "1",
+            "title": "Russe"
+        },
+        {
+            "id": "2",
+            "title": "Anglais"
+        },
+        {
+            "id": "4",
+            "title": "Allemand"
+        },
+        {
+            "id": "8",
+            "title": "Français"
+        },
+        {
+            "id": "16",
+            "title": "Espagnol"
+        },
+        {
+            "id": "32",
+            "title": "Portugais"
+        }
+    ],
+    "cities": [
+        {
+            "id": "1",
+            "title": "Moscou"
+        },
+        {
+            "id": "2",
+            "title": "St. Pétersbourg"
+        },
+        {
+            "id": "3",
+            "title": "Sotchi"
+        },
+        {
+            "id": "4",
+            "title": "Volgograd"
+        },
+        {
+            "id": "5",
+            "title": "Rostov-na-Donu"
+        },
+        {
+            "id": "6",
+            "title": "Kazan"
+        },
+        {
+            "id": "7",
+            "title": "Saransk"
+        },
+        {
+            "id": "8",
+            "title": "Samara"
+        },
+        {
+            "id": "9",
+            "title": "Nijni Novgorod"
+        },
+        {
+            "id": "10",
+            "title": "Ekaterinbourg"
+        },
+        {
+            "id": "11",
+            "title": "Kaliningrad"
+        }
+    ],
+    "orgs": [
+        {
+            "id": "1",
+            "title": "Mozgva"
+        },
+        {
+            "id": "2",
+            "title": "60 secondes"
+        },
+        {
+            "id": "3",
+            "title": "Quiz, please!"
+        },
+        {
+            "id": "4",
+            "title": "MosQuiz"
+        }
+    ],
+    "statuses": [
+        {
+            "id": "-1",
+            "title": "Annulé"
+        },
+        {
+            "id": "0",
+            "title": "Non confirmé"
+        },
+        {
+            "id": "1",
+            "title": "Confirmé"
+        }
+    ]
+}

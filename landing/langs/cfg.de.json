@@ -1,0 +1,128 @@
+{
+    "games": [
+        {
+            "id": "1",
+            "title": "Kneipenquiz"
+        },
+        {
+            "id": "2",
+            "title": "VR-Schütze"
+        },
+        {
+            "id": "3",
+            "title": "Quest-Spiele"
+        },
+        {
+            "id": "4",
+            "title": "Paintball"
+        },
+        {
+            "id": "5",
+            "title": "FIFA, CS:GO, DOTA"
+        }
+    ],
+    "langs": [
+        {
+            "id": "1",
+            "title": "Russisch"
+        },
+        {
+            "id": "2",
+            "title": "Englisch"
+        },
+        {
+            "id": "4",
+            "title": "Deutsch"
+        },
+        {
+            "id": "8",
+            "title": "Französisch"
+        },
+        {
+            "id": "16",
+            "title": "Spanisch"
+        },
+        {
+            "id": "32",
+            "title": "Portugiesisch"
+        }
+    ],
+    "cities": [
+        {
+            "id": "1",
+            "title": "Moskau"
+        },
+        {
+            "id": "2",
+            "title": "St. Petersburg"
+        },
+        {
+            "id": "3",
+            "title": "Sotschi"
+        },
+        {
+            "id": "4",
+            "title": "Wolgograd"
+        },
+        {
+            "id": "5",
+            "title": "Rostov-na-Donu"
+        },
+        {
+            "id": "6",
+            "title": "Kasan"
+        },
+        {
+            "id": "7",
+            "title": "Saransk"
+        },
+        {
+            "id": "8",
+            "title": "Samara"
+        },
+        {
+            "id": "9",
+            "title": "Nizhny Novgorod"
+        },
+        {
+            "id": "10",
+            "title": "Jekaterinburg"
+        },
+        {
+            "id": "11",
+            "title": "Kaliningrad"
+        }
+    ],
+    "orgs": [
+        {
+            "id": "1",
+            "title": "Mozgva"
+        },
+        {
+            "id": "2",
+            "title": "60 Sekunden"
+        },
+        {
+            "id": "3",
+            "title": "Quiz, please!"
+        },
+        {
+            "id": "4",
+            "title": "MosQuiz"
+        }
+    ],
+    "statuses": [
+        {
+            "id": "-1",
+            "title": "Storniert"
+        },
+        {
+            "id": "0",
+            "title": "Nicht bestätigt"
+        },
+        {
+            "id": "1",
+            "title": "Bestätigt"
+        }
+    ]
+}
