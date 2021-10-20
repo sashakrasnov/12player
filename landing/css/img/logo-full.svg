@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="228" height="39" viewBox="0 0 228 39">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#006FFF" d="M0 0h19.588L38 39H18.105z"/>
+        <path fill="#BDB9B9" d="M29 0l8.933 19 12.343-.063-6.132 13.146 3.209 6.817H80.05l-6.593-11.278h-8.436l3.954-8.685L58.708 0z"/>
+        <text fill="#000" font-family="LucidaGrande-Bold, Lucida Grande" font-size="30" font-weight="bold">
+            <tspan x="87.014" y="31">-й игрок</tspan>
+        </text>
+    </g>
+</svg>
