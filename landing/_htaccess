@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^ticket/([0-9a-f]+)/([0-9-]+)\.png /ticket/?id=$2&key=$1
+RewriteRule ^ticket/([0-9a-f]+)/([0-9-]+)\.gif /ticket/?id=$2&key=$1
+RewriteRule ^ticket/([0-9a-f]+)/([0-9-]+)\.jpg /ticket/?id=$2&key=$1
+
+</IfModule>
